@@ -43,8 +43,7 @@ I'm a passionate **DevOps enthusiast** with hands-on experience in automating in
 
 ### 🔗 Projects & Highlights
 
-- 🚀 [My Terraform Azure Infrastructure Setup](https://github.com/yourusername/terraform-azure-infra)
-- 🐳 [Dockerized Web App CI/CD with GitHub Actions](https://github.com/yourusername/docker-ci-cd)
+- 🚀 [My Terraform Azure Infrastructure Setup](https://github.com/ShivShrivastava/ToDoAppInfra)
 
 
 ---
