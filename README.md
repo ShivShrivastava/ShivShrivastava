@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Your Name]!
+### 👋 Hi there, I'm Shiv Shrivastava!
 
 I'm a passionate **DevOps enthusiast** with hands-on experience in automating infrastructure, managing CI/CD pipelines, and working with cloud-native tools. I love solving problems, optimizing workflows, and staying updated with the latest trends in DevOps and cloud computing.
 
@@ -48,6 +48,12 @@ I'm a passionate **DevOps enthusiast** with hands-on experience in automating in
 
 
 ---
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivShrivastava&show_icons=true&theme=radical)
+
+---
+
 
 Thanks for stopping by! 🙌  
 Feel free to connect and collaborate! 🚀
