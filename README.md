@@ -50,10 +50,5 @@ I'm a passionate **DevOps enthusiast** with hands-on experience in automating in
 ---
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivShrivastava&show_icons=true&theme=radical)
-
----
-
-
 Thanks for stopping by! 🙌  
 Feel free to connect and collaborate! 🚀
