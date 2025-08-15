@@ -1,16 +1,53 @@
-## Hi there 👋
+### 👋 Hi there, I'm [Your Name]!
 
-<!--
-**ShivShrivastava/ShivShrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **DevOps enthusiast** with hands-on experience in automating infrastructure, managing CI/CD pipelines, and working with cloud-native tools. I love solving problems, optimizing workflows, and staying updated with the latest trends in DevOps and cloud computing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Cloud:** Azure ☁️  
+- **IaC:** Terraform 🌍  
+- **Containers:** Docker 🐳  
+- **Orchestration:** Kubernetes (K8s) ☸️  
+- **CI/CD:** GitHub Actions, Azure DevOps  
+- **Scripting:** Bash, PowerShell  
+- **Monitoring & Logging:** Prometheus, Grafana
+
+---
+
+### 🔥 Currently Learning / Building
+
+- Implementing Monitoring and Visualization with Promethes+Grafana
+- Advanced Kubernetes deployments with Helm  
+- Designing scalable infrastructure on Azure using Terraform  
+- Exploring DevSecOps practices  
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivShrivastava&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivShrivastava&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: shrishiv09@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/shiv-shrivastava-27905574
+- 🐦 Mobile: +91-8770183929
+
+---
+
+
+### 🔗 Projects & Highlights
+
+- 🚀 [My Terraform Azure Infrastructure Setup](https://github.com/yourusername/terraform-azure-infra)
+- 🐳 [Dockerized Web App CI/CD with GitHub Actions](https://github.com/yourusername/docker-ci-cd)
+
+
+---
+
+Thanks for stopping by! 🙌  
+Feel free to connect and collaborate! 🚀
