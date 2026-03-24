@@ -43,7 +43,7 @@ I'm a passionate **DevOps enthusiast** with hands-on experience in automating in
 
 ### 🔗 Projects & Highlights
 
-- 🚀 [My Terraform Azure Infrastructure Setup](https://github.com/ShivShrivastava/ToDoAppInfra)
+- 🚀 [Project_Terraform_Logging](https://github.com/ShivShrivastava/Project_Terraform_Logging.git)
 
 
 ---
