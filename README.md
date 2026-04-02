@@ -68,7 +68,7 @@
 
 ## 🧩 Featured Project
 
-### 🚀 Terraform Logging System  
+### 🚀 Terraform Azure Log Uploader 
 🔗 https://github.com/ShivShrivastava/Project_Terraform_Logging  
 
 ✨ Automated logging infrastructure using Terraform  
