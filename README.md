@@ -1,53 +1,97 @@
-### 👋 Hi there, I'm Shiv Shrivastava!
+<h1 align="center">🚀 Shiv Shrivastava</h1>
+<h3 align="center">⚡ DevOps Engineer | Cloud Enthusiast | Automation Specialist</h3>
 
-I'm a passionate **DevOps enthusiast** with hands-on experience in automating infrastructure, managing CI/CD pipelines, and working with cloud-native tools. I love solving problems, optimizing workflows, and staying updated with the latest trends in DevOps and cloud computing.
-
----
-
-### 🛠️ Tech Stack
-
-- **Cloud:** Azure ☁️  
-- **IaC:** Terraform 🌍  
-- **Containers:** Docker 🐳  
-- **Orchestration:** Kubernetes (K8s) ☸️  
-- **CI/CD:** GitHub Actions, Azure DevOps  
-- **Scripting:** Bash, PowerShell  
-- **Monitoring & Logging:** Prometheus, Grafana
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
-### 🔥 Currently Learning / Building
+## 🧠 About Me
 
-- Implementing Monitoring and Visualization with Promethes+Grafana
-- Advanced Kubernetes deployments with Helm  
-- Designing scalable infrastructure on Azure using Terraform  
-- Exploring DevSecOps practices  
+💡 Passionate DevOps Engineer focused on building **scalable, automated, and resilient infrastructure**  
 
----
+⚙️ I specialize in:
+- Infrastructure as Code (IaC)
+- CI/CD pipeline automation
+- Cloud-native architecture
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivShrivastava&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivShrivastava&layout=compact&theme=tokyonight)
+🚀 I love turning complex systems into **simple, efficient workflows**
 
 ---
 
-### 📫 How to Reach Me
+## 🛠️ Tech Stack
 
-- 📧 Email: shrishiv09@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/shiv-shrivastava-27905574
-- 🐦 Mobile: +91-8770183929
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,bash,powershell,grafana,prometheus" />
 
-
-### 🔗 Projects & Highlights
-
-- 🚀 [Project_Terraform_Logging](https://github.com/ShivShrivastava/Project_Terraform_Logging.git)
-
+</p>
 
 ---
 
+## 📊 GitHub Analytics
 
-Thanks for stopping by! 🙌  
-Feel free to connect and collaborate! 🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivShrivastava&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivShrivastava&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivShrivastava&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+🚀 Building **Monitoring Stack (Prometheus + Grafana)**  
+☸️ Advanced Kubernetes deployments using Helm  
+🌍 Scalable Azure infrastructure using Terraform  
+🔐 Exploring DevSecOps & Security Automation  
+
+---
+
+## 🧩 Featured Project
+
+### 🚀 Terraform Logging System  
+🔗 https://github.com/ShivShrivastava/Project_Terraform_Logging  
+
+✨ Automated logging infrastructure using Terraform  
+📊 Integrated monitoring and alerting  
+⚡ Production-ready modular setup  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:shrishiv09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shiv-shrivastava-27905574"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💥 I automate things not because it's easy… but because manual work is boring 😎
+
+---
+
+<p align="center">🔥 Let's build something amazing together 🚀</p>
