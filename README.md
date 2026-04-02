@@ -28,7 +28,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="50"/><br>Azure</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="50"/><br>Terraform</td>
-<td align="center"><img src="https://img.icons8.com/color/48/devops.png" width="50"/><br>CI/CD</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="50"/><br>CI/CD</td>
 </tr>
 
 <tr>
