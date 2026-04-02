@@ -22,11 +22,29 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br>Azure</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>Terraform</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,bash,powershell,grafana,prometheus" />
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br>Bash</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="48"/><br>PowerShell</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="48"/><br>Grafana</td>
+</tr>
 
-</p>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br>Prometheus</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
 
 ---
 
